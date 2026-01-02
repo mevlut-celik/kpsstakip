@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mevlutcelik.kpsstakip.app-mergeReleaseResources-50:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/mevlutcelik/.gradle/caches/9.0-milestone-1/transforms/ebf7cf3fd9b35f608f0be3ead7999ea2/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
